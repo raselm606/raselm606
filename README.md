@@ -64,10 +64,7 @@ Git · Nginx · GitHub Actions · Cloudflare · Netlify · Linux
 
 6. **CoinView ICO (HTML Landing)** : [🔗 Live Demo](https://raselm.com/ico-html/coin-view-ico)
 
-7. **UCBI Banking (HTML Landing Pages)** :  
-   [🔗 Home One](https://ucbi-html-landing3.vercel.app/) |  
-   [🔗 Home Two](https://ucbi-html-landing2.vercel.app/) |  
-   [🔗 Home Three](https://ucbi-html-landing1.vercel.app/)
+7. **UCBI Banking (HTML Landing Pages)** :  [🔗 Home One](https://ucbi-html-landing3.vercel.app/) |  [🔗 Home Two](https://ucbi-html-landing2.vercel.app/) |  [🔗 Home Three](https://ucbi-html-landing1.vercel.app/)
 
 8. **Boalia Village (Multi-Page – HTML, Laravel)** : [🔗 Live Demo](https://boalia.info/)
 
