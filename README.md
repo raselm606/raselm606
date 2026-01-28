@@ -32,13 +32,13 @@ Git · Nginx · GitHub Actions · Cloudflare · Netlify · Linux
 ## ⭐ **My Top Projects (Production Level)**
 
 ### 🔹 Next.js Projects:
-1. **NextJs - Beatai (Landing, User Dashboard)**  : ![🔗 Live Demo](https://beatai.io)
+1. **NextJs - Beatai (Landing, User Dashboard)**  : [🔗 Live Demo](https://beatai.io)
 
-2. **NextJs - UCBI Banking (Landing)** : ![🔗 Live Demo](https://ucbi-nextjs-landing-2026.vercel.app)
+2. **NextJs - UCBI Banking (Landing)** : [🔗 Live Demo](https://ucbi-nextjs-landing-2026.vercel.app)
 
-3. **BeatBidder Nextjs - (Landing + User Dashboard)**  :  ![🔗 Live Demo](https://beatbidder-nextjs.vercel.app/)
+3. **BeatBidder Nextjs - (Landing + User Dashboard)**  :  [🔗 Live Demo](https://beatbidder-nextjs.vercel.app/)
 
-4. **Zom Eth Staking Nextjs - (Landing)**  : ![🔗 Live Demo](https://zom-staking-nextjs.vercel.app)
+4. **Zom Eth Staking Nextjs - (Landing)**  : [🔗 Live Demo](https://zom-staking-nextjs.vercel.app)
    
 ---
 
