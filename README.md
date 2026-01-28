@@ -12,19 +12,19 @@ I’m a frontend developer with 6+ years of experience building modern, scalable
 
 ![My Skills](https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,html,css,js,laravel,git,github)
 
-🔹 ### Frontend & Styling
+### 🔹 Frontend & Styling
 **Next.js** · **React.js** · Vite · HTML5 · CSS3 · JavaScript (ES6+) · **Tailwind CSS** · **Bootstrap** · jQuery · Shadcn UI · Ant Design · GenUI
 
-🔹 ### Backend & Database
+### 🔹 Backend & Database
 Laravel · MySQL · PosgreSQL · REST APIs
 
-🔹 ### Web3
+### 🔹 Web3
 Solidity · Web3 · Metamask
 
-🔹 ### Design & Tools
+### 🔹 Design & Tools
 Figma · Adobe Photoshop · Canva · Illustrator · Adobe Premium Pro · Git & GitHub
 
-🔹 ### DevOps & Tooling
+### 🔹 DevOps & Tooling
 Git · Nginx · GitHub Actions · Cloudflare · Netlify · Linux 
 
 ---
