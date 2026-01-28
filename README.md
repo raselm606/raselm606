@@ -1,6 +1,6 @@
 # Hi 👋 I'm Rasel Mahmud  
 
-🚀 Frontend Developer | 💻 Next.js & React Specialist  
+🚀 Senior Frontend Developer | 💻 Next.js & React Specialist  
 
 I’m a frontend developer with 6+ years of experience building modern, scalable, and high-performance web applications for startups and enterprise clients. Currently working remotely with international teams and continuously improving my skills in **Next.js, React, and Web3**.
 
