@@ -36,7 +36,7 @@ Git · Nginx · GitHub Actions · Cloudflare · Netlify · Linux
 
 ## ⭐ **My Top Projects (Production Level)**
 
-### 🔹 Next.js Projects:
+## 🔹 Next.js Projects:
 
 1. **NextJs - Beatai (Landing, User Dashboard)**  : [🔗 Live Demo](https://beatai.io)
 
@@ -48,7 +48,7 @@ Git · Nginx · GitHub Actions · Cloudflare · Netlify · Linux
    
 ---
 
-### 🔹 React.js Projects:
+## 🔹 React.js Projects:
 1. **ReactJs - Beatai (Landing)** : [🔗 Live Demo](https://beatai-reactjs.vercel.app/)
 
 2. **ReactJs - ICO Token Selling Landing** : [🔗 Live Demo](https://reactjs-token-sale-metamask-2026.vercel.app/)
@@ -57,7 +57,7 @@ Git · Nginx · GitHub Actions · Cloudflare · Netlify · Linux
 
 ---
 
-### 🔹 HTML / CSS Projects:
+## 🔹 HTML / CSS Projects:
 
 1. **BeatBind (Landing – HTML)** : [🔗 Live Demo](https://beatbind.io)
 
@@ -82,7 +82,7 @@ Git · Nginx · GitHub Actions · Cloudflare · Netlify · Linux
 ---
 
 
-### 🎨 Figma Designs
+## 🎨 Figma Designs
 
 1. **BeatBidder – Landing (Multipage) + User Dashboard** : [🔗 Figma Live Demo](https://www.figma.com/design/RAdC3ilX17F6amIXkN2Jc0/Beatbind--Bidder)
 
