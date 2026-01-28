@@ -76,17 +76,17 @@ Git · Nginx · GitHub Actions · Cloudflare · Netlify · Linux
 
 
 ### 🎨 Figma Designs
-1. **BeatBidder – Landing (Multipage) + User Dashboard** : [🎨 Figma Live Demo](https://www.figma.com/design/RAdC3ilX17F6amIXkN2Jc0/Beatbind--Bidder)
+1. **BeatBidder – Landing (Multipage) + User Dashboard** : [🔗 Figma Live Demo](https://www.figma.com/design/RAdC3ilX17F6amIXkN2Jc0/Beatbind--Bidder)
 
-2. **BeatAi – Landing Page (Version 2)** : [🎨 Figma Live Demo](https://www.figma.com/design/uZ98wc7LSwgJYFkCoYMWi4/BAi-Landing-Ver-2)
+2. **BeatAi – Landing Page (Version 2)** : [🔗 Figma Live Demo](https://www.figma.com/design/uZ98wc7LSwgJYFkCoYMWi4/BAi-Landing-Ver-2)
 
-3. **BeatBind – Landing Page** : [🎨 Figma Live Demo](https://www.figma.com/design/iCoB15FdRgWxxAq0Be2vfP/Beat-bind-Rasel)
+3. **BeatBind – Landing Page** : [🔗 Figma Live Demo](https://www.figma.com/design/iCoB15FdRgWxxAq0Be2vfP/Beat-bind-Rasel)
 
-4. **UCBI Banking – Landing Page** : [🎨 Figma Live Demo](https://www.figma.com/design/PR6ACwe3qkxwRCMBGKWQZH/ucbi-landing-version-2)
+4. **UCBI Banking – Landing Page** : [🔗 Figma Live Demo](https://www.figma.com/design/PR6ACwe3qkxwRCMBGKWQZH/ucbi-landing-version-2)
 
-5. **BeatBuy – Landing (Multipage)** : [🎨 Figma Live Demo](https://www.figma.com/design/1zp3fvVueAgvHKFGAFL4dI/BeatBuy-Landing)
+5. **BeatBuy – Landing (Multipage)** : [🔗 Figma Live Demo](https://www.figma.com/design/1zp3fvVueAgvHKFGAFL4dI/BeatBuy-Landing)
 
-6. **BeatBind – Newsletter Landing Page** : [🎨 Figma Live Demo](https://www.figma.com/design/RAdC3ilX17F6amIXkN2Jc0/Beatbind--Bidder)  
+6. **BeatBind – Newsletter Landing Page** : [🔗 Figma Live Demo](https://www.figma.com/design/RAdC3ilX17F6amIXkN2Jc0/Beatbind--Bidder)  
 
 
 ---
