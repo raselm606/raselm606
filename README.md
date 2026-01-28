@@ -13,18 +13,23 @@ I’m a frontend developer with 6+ years of experience building modern, scalable
 ![My Skills](https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,html,css,js,laravel,git,github)
 
 ### 🔹 Frontend & Styling
+
 **Next.js** · **React.js** · Vite · HTML5 · CSS3 · JavaScript (ES6+) · **Tailwind CSS** · **Bootstrap** · jQuery · Shadcn UI · Ant Design · GenUI
 
 ### 🔹 Backend & Database
+
 Laravel · MySQL · PosgreSQL · REST APIs
 
 ### 🔹 Web3
+
 Solidity · Web3 · Metamask
 
 ### 🔹 Design & Tools
+
 Figma · Adobe Photoshop · Canva · Illustrator · Adobe Premium Pro · Git & GitHub
 
 ### 🔹 DevOps & Tooling
+
 Git · Nginx · GitHub Actions · Cloudflare · Netlify · Linux 
 
 ---
@@ -32,6 +37,7 @@ Git · Nginx · GitHub Actions · Cloudflare · Netlify · Linux
 ## ⭐ **My Top Projects (Production Level)**
 
 ### 🔹 Next.js Projects:
+
 1. **NextJs - Beatai (Landing, User Dashboard)**  : [🔗 Live Demo](https://beatai.io)
 
 2. **NextJs - UCBI Banking (Landing)** : [🔗 Live Demo](https://ucbi-nextjs-landing-2026.vercel.app)
@@ -52,6 +58,7 @@ Git · Nginx · GitHub Actions · Cloudflare · Netlify · Linux
 ---
 
 ### 🔹 HTML / CSS Projects:
+
 1. **BeatBind (Landing – HTML)** : [🔗 Live Demo](https://beatbind.io)
 
 2. **Mili Doge ICO (HTML Landing)** : [🔗 Live Demo](https://raselm.com/ico-html/mili-doge-ico/)
@@ -76,6 +83,7 @@ Git · Nginx · GitHub Actions · Cloudflare · Netlify · Linux
 
 
 ### 🎨 Figma Designs
+
 1. **BeatBidder – Landing (Multipage) + User Dashboard** : [🔗 Figma Live Demo](https://www.figma.com/design/RAdC3ilX17F6amIXkN2Jc0/Beatbind--Bidder)
 
 2. **BeatAi – Landing Page (Version 2)** : [🔗 Figma Live Demo](https://www.figma.com/design/uZ98wc7LSwgJYFkCoYMWi4/BAi-Landing-Ver-2)
