@@ -1,16 +1,148 @@
-## Hi there 👋
+# Hi 👋 I'm Rasel Mahmud  
 
-<!--
-**raselm606/raselm606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Frontend Developer | 💻 Next.js & React Specialist  
 
-Here are some ideas to get you started:
+I’m a frontend developer with 6+ years of experience building modern, scalable, and high-performance web applications for startups and enterprise clients. Currently working remotely with international teams and continuously improving my skills in **Next.js, React, and Web3**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 **Portfolio:** https://raselm.com
+
+---
+
+## 🛠️ Tech Skills & Tools
+
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,html,css,js,laravel,git,github)
+
+### Frontend
+- **Next.js**, **React.js**
+- HTML5, CSS3, JavaScript (ES6+)
+- **Tailwind CSS**, **Bootstrap**, jQuery
+- Shadcn UI, Ant Design, GenUI
+
+### Backend & Database
+- Laravel, MySQL
+- REST APIs
+
+### Web3
+- Solidity, Web3
+
+### Design & Tools
+- Figma, Adobe Photoshop
+- Git & GitHub
+
+---
+
+## ⭐ **Featured Projects (Production Level)**
+
+### 🔹 Next.js Projects:
+1. **NextJs - Beatai (Landing, User Dashboard)**  
+   🔗 Live: https://beatai.io    
+
+2. **NextJs - UCBI Banking (Landing)**  
+   🔗 Live: https://ucbi-nextjs-landing-2026.vercel.app    
+
+3. **BeatBidder Nextjs - (Landing + User Dashboard)**  
+   🔗 Live: https://beatbidder-nextjs.vercel.app/      
+
+4. **Zom Eth Staking Nextjs - (Landing)**  
+   🔗 Live: https://zom-staking-nextjs.vercel.app     
+
+---
+
+### 🔹 React.js Projects
+1. **ReactJs - Beatai (Landing)**  
+   🔗 Live: https://beatai-reactjs.vercel.app/   
+
+2. **ReactJs - ICO Token Selling Landing**  
+   🔗 Live: https://reactjs-token-sale-metamask-2026.vercel.app/  
+
+3. **(ERC20 / BEP20) Wallet Creation with Private Key**  
+   🔗 Live: https://reactjs-token-sale-metamask-2026.vercel.app/wallet   
+
+---
+
+### 🔹 HTML / CSS Projects
+1. **BeatBind (Landing – HTML)**  
+   🔗 Live: https://beatbind.io  
+
+2. **Mili Doge ICO (HTML Landing)**  
+   🔗 Live: https://raselm.com/ico-html/mili-doge-ico/  
+
+3. **Pingo-Inu ICO (HTML Landing)**  
+   🔗 Live: https://raselm.com/ico-html/pingo-ino-ico/  
+
+4. **Rabbit Network ICO (Landing + Dashboard – HTML)**  
+   🔗 Live: https://raselm.com/ico-html/rabbit-network-ico-landing-dashboard/  
+
+5. **Peernetics Crypto (Multi-Page – HTML)**  
+   🔗 Live: https://raselm.com/ico-html/peernetics-crypto/  
+
+6. **CoinView ICO (HTML Landing)**  
+   🔗 Live: https://raselm.com/ico-html/coin-view-ico  
+
+7. **UCBI Banking (HTML Landing Pages)**  
+   🔗 Home One: https://ucbi-html-landing3.vercel.app/  
+   🔗 Home Two: https://ucbi-html-landing2.vercel.app/  
+   🔗 Home Three: https://ucbi-html-landing1.vercel.app/  
+
+8. **Boalia Village (Multi-Page – HTML, Laravel)**  
+   🔗 Live: https://boalia.info/  
+
+9. **Smart Chapel (Multi-Page – HTML)**  
+   🔗 Live: https://smart-chapel-html.vercel.app/  
+
+10. **Boumela (F-Commerce – HTML, Laravel)**  
+    🔗 Live: https://boalia.info/  
+ 
+
+---
+
+
+### 🎨 Figma Designs
+1. **BeatBidder – Landing (Multipage) + User Dashboard**  
+   🎨 Figma: https://www.figma.com/design/RAdC3ilX17F6amIXkN2Jc0/Beatbind--Bidder  
+
+2. **BeatAi – Landing Page (Version 2)**  
+   🎨 Figma: https://www.figma.com/design/uZ98wc7LSwgJYFkCoYMWi4/BAi-Landing-Ver-2  
+
+3. **BeatBind – Landing Page**  
+   🎨 Figma: https://www.figma.com/design/iCoB15FdRgWxxAq0Be2vfP/Beat-bind-Rasel  
+
+4. **UCBI Banking – Landing Page**  
+   🎨 Figma: https://www.figma.com/design/PR6ACwe3qkxwRCMBGKWQZH/ucbi-landing-version-2  
+
+5. **BeatBuy – Landing (Multipage)**  
+   🎨 Figma: https://www.figma.com/design/1zp3fvVueAgvHKFGAFL4dI/BeatBuy-Landing  
+
+6. **BeatBind – Newsletter Landing Page**  
+   🎨 Figma: https://www.figma.com/design/RAdC3ilX17F6amIXkN2Jc0/Beatbind--Bidder  
+
+
+---
+
+## 💼 Work Experience
+
+**Frontend Developer** — *BeatBind (Serbia)*  
+📅 **2024 – Present** (Remote)
+
+- Built and maintained scalable frontend architectures using Next.js & React
+- Collaborated with backend & design teams across multiple time zones
+- Improved performance and UI consistency across products
+
+
+**Frontend Developer** — *UCBI Banking (France)*  
+📅 **2023 – 2026** (Remote)
+
+**Frontend Developer** — *TapendraTech (India)*  
+📅 **2019 – 2022** (Remote)
+
+**Frontend Designer** — *Neosino (NST) (Switzerland)*  
+📅 **2018 – 2019** (Remote)
+
+
+---
+
+## 📫 Contact Me
+- 📧 Email: raselm606@gmail.com  
+- 💬 Telegram: https://t.me/rasel_mahmud  
+- 🌍 GitHub: https://github.com/raselm606  
+- 🌐 Website: https://raselm.com
