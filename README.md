@@ -40,7 +40,7 @@ Git · Nginx · GitHub Actions · Cloudflare · Netlify · Linux
 
 1. **NextJs - Beatai (Landing, User Dashboard)**  : [🔗 Live Link](https://beatai.io)
 
-2. **NextJs - UCBI Banking (Landing)** : [🔗 Live Link](https://ucbi-nextjs-landing-2026.vercel.app)
+2. **NextJs - UCBI Banking (Landing)** : [🔗 Live Link](https://ucbibanking.io)
 
 3. **BeatBidder Nextjs - (Landing + User Dashboard)**  :  [🔗 Live Link](https://beatbidder-nextjs.vercel.app/)
 
