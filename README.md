@@ -22,7 +22,7 @@ Laravel · MySQL · PosgreSQL · REST APIs
 
 ### 🔹 Web3
 
-Solidity · Web3 · Metamask
+Solidity · Web3 · EtherJs · Metamask· Wagmi
 
 ### 🔹 Design & Tools
 
@@ -38,65 +38,69 @@ Git · Nginx · GitHub Actions · Cloudflare · Netlify · Linux
 
 ## 🔹 Next.js Projects:
 
-1. **NextJs - Beatai (Landing, User Dashboard)**  : [🔗 Live Link](https://beatai.io)
+1. **NextJs - Beatai (Landing, User Dashboard)**  : [🔗 Live Demo](https://beatai.io)
 
-2. **NextJs - UCBI Banking (Landing)** : [🔗 Live Link](https://ucbibanking.io)
+2. **NextJs - UCBI Banking (Landing)** : [🔗 Live Demo](https://ucbibanking.io)
 
-3. **BeatBidder Nextjs - (Landing + User Dashboard)**  :  [🔗 Live Link](https://beatbidder-nextjs.vercel.app/)
+3. **NextJs - PaysaBank ICO using Metamask wallet connect (Landing)** : [🔗 Live Demo](https://paysabank-nextjs-metamask.vercel.app/)
+
+4. **NextJs - qbToken Ico landing with Crypto market compare (Landing)** : [🔗 Live Demo](https://qbtoken-nextjs-tailwinds.vercel.app/)
+
+5. **BeatBidder Nextjs - (Landing + User Dashboard)**  :  [🔗 Live Demo](https://beatbidder-nextjs.vercel.app/)
    
-4. **Nextjs  - On-Learning Platform(Landing)**  :  [🔗 Live Link](https://on-learning-nextjs-tailwind-landing.vercel.app/) 
+6. **Nextjs  - On-Learning Platform(Landing)**  :  [🔗 Live Demo](https://on-learning-nextjs-tailwind-landing.vercel.app/) 
 
-5. **Zom Eth Staking Nextjs - (Landing)**  : [🔗 Live Link](https://zom-staking-nextjs.vercel.app)
+7. **Zom Eth Staking Nextjs - (Landing)**  : [🔗 Live Demo](https://zom-staking-nextjs.vercel.app)
    
 ---
 
 ## 🔹 React.js Projects:
-1. **ReactJs - Beatai (Landing)** : [🔗 Live Link](https://beatai-reactjs.vercel.app/)
+1. **ReactJs - Beatai (Landing)** : [🔗 Live Demo](https://beatai-reactjs.vercel.app/)
 
-2. **ReactJs - ICO Token Selling Landing** : [🔗 Live Link](https://reactjs-token-sale-metamask-2026.vercel.app/)
+2. **ReactJs - ICO Token Selling Landing** : [🔗 Live Demo](https://reactjs-token-sale-metamask-2026.vercel.app/)
 
-3. **(ERC20 / BEP20) Wallet Creation with Private Key** : [🔗 Live Link](https://reactjs-token-sale-metamask-2026.vercel.app/wallet) 
+3. **(ERC20 / BEP20) Wallet Creation with Private Key** : [🔗 Live Demo](https://reactjs-token-sale-metamask-2026.vercel.app/wallet) 
 
 ---
 
 ## 🔹 HTML / CSS Projects:
 
-1. **BeatBind (Landing – HTML)** : [🔗 Live Link](https://beatbind.io)
+1. **BeatBind (Landing – HTML)** : [🔗 Live Demo](https://beatbind.io)
 
-2. **Mili Doge ICO (HTML Landing)** : [🔗 Live Link](https://raselm.com/ico-html/mili-doge-ico/)
+2. **Mili Doge ICO (HTML Landing)** : [🔗 Live Demo](https://raselm.com/ico-html/mili-doge-ico/)
 
 3. **Pingo-Inu ICO (HTML Landing)** : [🔗 Live Demo](https://raselm.com/ico-html/pingo-ino-ico/)
 
-4. **Rabbit Network ICO (Landing + Dashboard – HTML)** : [🔗 Live Link](https://raselm.com/ico-html/rabbit-network-ico-landing-dashboard/)
+4. **Rabbit Network ICO (Landing + Dashboard – HTML)** : [🔗 Live Demo](https://raselm.com/ico-html/rabbit-network-ico-landing-dashboard/)
 
-5. **Peernetics Crypto (Multi-Page – HTML)** : [🔗 Live Link](https://raselm.com/ico-html/peernetics-crypto/)
+5. **Peernetics Crypto (Multi-Page – HTML)** : [🔗 Live Demo](https://raselm.com/ico-html/peernetics-crypto/)
 
-6. **CoinView ICO (HTML Landing)** : [🔗 Live Link](https://raselm.com/ico-html/coin-view-ico)
+6. **CoinView ICO (HTML Landing)** : [🔗 Live Demo](https://raselm.com/ico-html/coin-view-ico)
 
 7. **UCBI Banking (HTML Landing Pages)** :  [🔗 Home One](https://ucbi-html-landing3.vercel.app/) |  [🔗 Home Two](https://ucbi-html-landing2.vercel.app/) |  [🔗 Home Three](https://ucbi-html-landing1.vercel.app/)
 
-8. **Boalia Village (Multi-Page – HTML, Laravel)** : [🔗 Live Link](https://boalia.info/)
+8. **Boalia Village (Multi-Page – HTML, Laravel)** : [🔗 Live Demo](https://boalia.info/)
 
-9. **Smart Chapel (Multi-Page – HTML)** : [🔗 Live Link](https://smart-chapel-html.vercel.app/)
+9. **Smart Chapel (Multi-Page – HTML)** : [🔗 Live Demo](https://smart-chapel-html.vercel.app/)
 
-10. **Boumela (F-Commerce – HTML, Laravel)** : [🔗 Live Link](https://boalia.info/) 
+10. **Boumela (F-Commerce – HTML, Laravel)** : [🔗 Live Demo](https://boalia.info/) 
 
 ---
 
 
 ## 🎨 Figma Designs
 
-1. **BeatBidder – Landing (Multipage) + User Dashboard** : [🔗 Figma Live Link](https://www.figma.com/design/RAdC3ilX17F6amIXkN2Jc0/Beatbind--Bidder)
+1. **BeatBidder – Landing (Multipage) + User Dashboard** : [🔗 Figma Live Demo](https://www.figma.com/design/RAdC3ilX17F6amIXkN2Jc0/Beatbind--Bidder)
 
-2. **BeatAi – Landing Page (Version 2)** : [🔗 Figma Live Link](https://www.figma.com/design/uZ98wc7LSwgJYFkCoYMWi4/BAi-Landing-Ver-2)
+2. **BeatAi – Landing Page (Version 2)** : [🔗 Figma Live Demo](https://www.figma.com/design/uZ98wc7LSwgJYFkCoYMWi4/BAi-Landing-Ver-2)
 
-3. **BeatBind – Landing Page** : [🔗 Figma Live Link](https://www.figma.com/design/iCoB15FdRgWxxAq0Be2vfP/Beat-bind-Rasel)
+3. **BeatBind – Landing Page** : [🔗 Figma Live Demo](https://www.figma.com/design/iCoB15FdRgWxxAq0Be2vfP/Beat-bind-Rasel)
 
-4. **UCBI Banking – Landing Page** : [🔗 Figma Live Link](https://www.figma.com/design/PR6ACwe3qkxwRCMBGKWQZH/ucbi-landing-version-2)
+4. **UCBI Banking – Landing Page** : [🔗 Figma Live Demo](https://www.figma.com/design/PR6ACwe3qkxwRCMBGKWQZH/ucbi-landing-version-2)
 
-5. **BeatBuy – Landing (Multipage)** : [🔗 Figma Live Link](https://www.figma.com/design/1zp3fvVueAgvHKFGAFL4dI/BeatBuy-Landing)
+5. **BeatBuy – Landing (Multipage)** : [🔗 Figma Live Demo](https://www.figma.com/design/1zp3fvVueAgvHKFGAFL4dI/BeatBuy-Landing)
 
-6. **BeatBind – Newsletter Landing Page** : [🔗 Figma Live Link](https://www.figma.com/design/RAdC3ilX17F6amIXkN2Jc0/Beatbind--Bidder)  
+6. **BeatBind – Newsletter Landing Page** : [🔗 Figma Live Demo](https://www.figma.com/design/RAdC3ilX17F6amIXkN2Jc0/Beatbind--Bidder)  
 
 
 ---
