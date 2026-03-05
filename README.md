@@ -43,14 +43,16 @@ Git · Nginx · GitHub Actions · Cloudflare · Netlify · Linux
 2. **NextJs - UCBI Banking (Landing)** : [🔗 Live Demo](https://ucbibanking.io)
 
 3. **NextJs - PaysaBank ICO using Metamask wallet connect (Landing)** : [🔗 Live Demo](https://pb-nextjs-metamask.vercel.app/)
-
-4. **NextJs - qbToken Ico landing with Crypto market compare (Landing)** : [🔗 Live Demo](https://qbtoken-nextjs-tailwinds.vercel.app/)
-
-5. **BeatBidder Nextjs - (Landing + User Dashboard)**  :  [🔗 Live Demo](https://beatbidder-nextjs.vercel.app/)
    
-6. **Nextjs  - On-Learning Platform(Landing)**  :  [🔗 Live Demo](https://on-learning-nextjs-tailwind-landing.vercel.app/) 
+4. **NextJs - RasTheme ICO using Metamask wallet connect (Landing)** : [🔗 Live Demo](https://rastheme-ico-nextjs-metamask.vercel.app/)
 
-7. **Zom Eth Staking Nextjs - (Landing)**  : [🔗 Live Demo](https://zom-staking-nextjs.vercel.app)
+5. **NextJs - qbToken Ico landing with Crypto market compare (Landing)** : [🔗 Live Demo](https://qbtoken-nextjs-tailwinds.vercel.app/)
+
+6. **BeatBidder Nextjs - (Landing + User Dashboard)**  :  [🔗 Live Demo](https://beatbidder-nextjs.vercel.app/)
+   
+7. **Nextjs  - On-Learning Platform(Landing)**  :  [🔗 Live Demo](https://on-learning-nextjs-tailwind-landing.vercel.app/) 
+
+8. **Zom Eth Staking Nextjs - (Landing)**  : [🔗 Live Demo](https://zom-staking-nextjs.vercel.app)
    
 ---
 
