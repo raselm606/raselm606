@@ -42,7 +42,7 @@ Git · Nginx · GitHub Actions · Cloudflare · Netlify · Linux
 
 2. **NextJs - UCBI Banking (Landing)** : [🔗 Live Demo](https://ucbibanking.io)
 
-3. **NextJs - PaysaBank ICO using Metamask wallet connect (Landing)** : [🔗 Live Demo](https://paysabank-nextjs-metamask.vercel.app/)
+3. **NextJs - PaysaBank ICO using Metamask wallet connect (Landing)** : [🔗 Live Demo](https://pb-nextjs-metamask.vercel.app/)
 
 4. **NextJs - qbToken Ico landing with Crypto market compare (Landing)** : [🔗 Live Demo](https://qbtoken-nextjs-tailwinds.vercel.app/)
 
