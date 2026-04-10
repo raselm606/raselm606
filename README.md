@@ -2,7 +2,7 @@
 
 🚀 Senior Frontend Developer | 💻 Next.js & React Specialist  
 
-I’m a frontend developer with 6+ years of experience building modern, scalable, and high-performance web applications for startups and enterprise clients. Currently working remotely with international teams and continuously improving my skills in **Next.js, React, and Web3**.
+I’m a frontend developer with multiple years of experience building modern, scalable, and high-performance web applications for startups and enterprise clients. Currently working remotely with international teams and continuously improving my skills in **Next.js, React, and Web3**.
 
 🌐 **Portfolio:** https://raselm.com
 
@@ -109,22 +109,14 @@ Git · Nginx · GitHub Actions · Cloudflare · Netlify · Linux
 
 ## 💼 Work Experience
 
-**Frontend Developer** — *BeatBind (Serbia)*  
-📅 **2024 – Present** (Remote)
+**Frontend Developer** — *DBBG Group LLC (Georgia)*  
+📅 **Oct 1, 2024 – Septmber 30, 2025* (Remote)
 
 - Built and maintained scalable frontend architectures using NextJS & React JS
 - Collaborated with backend & design teams across multiple time zones
 - Improved performance and UI consistency across products
 
 
-**Frontend Developer** — *UCBI Banking (France)*  
-📅 **2023 – 2026** (Remote)
-
-**Frontend Developer** — *TapendraTech (India)*  
-📅 **2019 – 2022** (Remote)
-
-**Frontend Designer** — *Neosino (NST) (Switzerland)*  
-📅 **2018 – 2019** (Remote)
 
 
 ---
